@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 890,
-    "timeDay": 890,
-    "timeWeek": 890,
-    "timeMonth": 890,
-    "timeYear": 890,
+    "time": 914,
+    "timeDay": 914,
+    "timeWeek": 914,
+    "timeMonth": 914,
+    "timeYear": 914,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 533,
-    "timeDay": 533,
-    "timeWeek": 533,
-    "timeMonth": 533,
-    "timeYear": 533,
+    "time": 534,
+    "timeDay": 534,
+    "timeWeek": 534,
+    "timeMonth": 534,
+    "timeYear": 534,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/1024px-Apache_Tomcat_logo.svg.png",
     "slug": "yersoncred-tomcat",
     "status": "down",
-    "uptime": "0.13%",
-    "uptimeDay": "0.13%",
-    "uptimeWeek": "0.13%",
-    "uptimeMonth": "0.13%",
-    "uptimeYear": "0.13%",
+    "uptime": "0.08%",
+    "uptimeDay": "0.08%",
+    "uptimeWeek": "0.08%",
+    "uptimeMonth": "0.08%",
+    "uptimeYear": "0.08%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-15": 10
+      "2022-12-15": 26
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "http://fenixcred.noip.us",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/1024px-Apache_Tomcat_logo.svg.png",
     "slug": "fenixcred-tomcat",
-    "status": "down",
-    "uptime": "19.43%",
-    "uptimeDay": "19.43%",
-    "uptimeWeek": "19.43%",
-    "uptimeMonth": "19.43%",
-    "uptimeYear": "19.43%",
-    "time": 408,
-    "timeDay": 408,
-    "timeWeek": 408,
-    "timeMonth": 408,
-    "timeYear": 408,
+    "status": "up",
+    "uptime": "17.01%",
+    "uptimeDay": "17.01%",
+    "uptimeWeek": "17.01%",
+    "uptimeMonth": "17.01%",
+    "uptimeYear": "17.01%",
+    "time": 718,
+    "timeDay": 718,
+    "timeWeek": 718,
+    "timeMonth": 718,
+    "timeYear": 718,
     "dailyMinutesDown": {
-      "2022-12-15": 83
+      "2022-12-15": 98
     }
   },
   {
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 581,
-    "timeDay": 581,
-    "timeWeek": 581,
-    "timeMonth": 581,
-    "timeYear": 581,
+    "time": 617,
+    "timeDay": 617,
+    "timeWeek": 617,
+    "timeMonth": 617,
+    "timeYear": 617,
     "dailyMinutesDown": {}
   },
   {
@@ -104,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1076,
-    "timeDay": 1076,
-    "timeWeek": 1076,
-    "timeMonth": 1076,
-    "timeYear": 1076,
+    "time": 973,
+    "timeDay": 973,
+    "timeWeek": 973,
+    "timeMonth": 973,
+    "timeYear": 973,
     "dailyMinutesDown": {}
   },
   {
@@ -128,7 +128,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-15": 10
+      "2022-12-15": 26
     }
   }
 ]
