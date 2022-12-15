@@ -41,18 +41,18 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/1024px-Apache_Tomcat_logo.svg.png",
     "slug": "fenixcred-tomcat",
     "status": "down",
-    "uptime": "94.65%",
-    "uptimeDay": "94.65%",
-    "uptimeWeek": "94.65%",
-    "uptimeMonth": "94.65%",
-    "uptimeYear": "94.65%",
+    "uptime": "30.09%",
+    "uptimeDay": "30.09%",
+    "uptimeWeek": "30.09%",
+    "uptimeMonth": "30.09%",
+    "uptimeYear": "30.09%",
     "time": 408,
     "timeDay": 408,
     "timeWeek": 408,
     "timeMonth": 408,
     "timeYear": 408,
     "dailyMinutesDown": {
-      "2022-12-15": 1
+      "2022-12-15": 47
     }
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://play-lh.googleusercontent.com/Zv2I5VIii0ZK9sJ2FgPFZxynVqtcenDZkO9BUYMO-35sTExs21OsGXEj2kQQFkk2ww=w240-h480-rw",
     "slug": "ozono-erp",
     "status": "down",
-    "uptime": "2.41%",
-    "uptimeDay": "2.41%",
-    "uptimeWeek": "2.41%",
-    "uptimeMonth": "2.41%",
-    "uptimeYear": "2.41%",
+    "uptime": "0.76%",
+    "uptimeDay": "0.76%",
+    "uptimeWeek": "0.76%",
+    "uptimeMonth": "0.76%",
+    "uptimeYear": "0.76%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-15": 21
+      "2022-12-15": 66
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "lomashotcentral.no-ip.info",
     "icon": "https://play-lh.googleusercontent.com/Zv2I5VIii0ZK9sJ2FgPFZxynVqtcenDZkO9BUYMO-35sTExs21OsGXEj2kQQFkk2ww=w240-h480-rw",
     "slug": "lo-hot",
-    "status": "down",
-    "uptime": "81.00%",
-    "uptimeDay": "81.00%",
-    "uptimeWeek": "81.00%",
-    "uptimeMonth": "81.00%",
-    "uptimeYear": "81.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.19%",
+    "uptimeDay": "1.19%",
+    "uptimeWeek": "1.19%",
+    "uptimeMonth": "1.19%",
+    "uptimeYear": "1.19%",
+    "time": 1685,
+    "timeDay": 1685,
+    "timeWeek": 1685,
+    "timeMonth": 1685,
+    "timeYear": 1685,
     "dailyMinutesDown": {
-      "2022-12-15": 0
+      "2022-12-15": 45
     }
   }
 ]
