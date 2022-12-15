@@ -6,17 +6,21 @@ repo: ozono_upptime # The name of this repository
 sites:
   - name: Santo Tome Nextcloud
     url: http://santotomeserver.no-ip.info/
+    __dangerous__insecure: true
   - name: Santo Tome Tomcat
     url: http://santotomeserver.no-ip.info
     port: 8080
+    __dangerous__insecure: true
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/1024px-Apache_Tomcat_logo.svg.png
   - name: Yersoncred Tomcat
     url: http://serveryersonalvear.ddns.net
     port: 8080
+    __dangerous__insecure: true
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/1024px-Apache_Tomcat_logo.svg.png
   - name: Fenixcred Tomcat
     url: http://fenixcred.noip.us
     port: 8080
+    __dangerous__insecure: true
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/1024px-Apache_Tomcat_logo.svg.png
   - name: Ozono Odoo
     url: https://ozonotest.ddns.net/
@@ -24,10 +28,12 @@ sites:
   - name: Lo+Hot Odoo
     url: http://lomashotcentral.no-ip.info
     port: 8069
+    __dangerous__insecure: true
     icon: https://play-lh.googleusercontent.com/Zv2I5VIii0ZK9sJ2FgPFZxynVqtcenDZkO9BUYMO-35sTExs21OsGXEj2kQQFkk2ww=w240-h480-rw
   - name: Oregon Odoo
     url: http://serveroregon.ddns.net
     port: 3080
+    __dangerous__insecure: true
     icon: https://play-lh.googleusercontent.com/Zv2I5VIii0ZK9sJ2FgPFZxynVqtcenDZkO9BUYMO-35sTExs21OsGXEj2kQQFkk2ww=w240-h480-rw
     
 status-website:
