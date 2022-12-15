@@ -1,7 +1,7 @@
 # Change these first
 owner: fernandocarballo # Your GitHub organization or username, where this repository lives
 repo: ozono_upptime # The name of this repository
-#user-agent: fernandocarballo
+user-agent: fernandocarballo
 
 sites:
   - name: Santo Tome Nextcloud
@@ -84,3 +84,9 @@ i18n:
   errorIntro: Ha ocurrido un error intentando obtener el ultimo detalle de estado.
   errorText: Puedes intentar en unos minutos.
   errorHome: Ir a la pagina de inicio
+  startedAt: Iniciado a las
+  startsAt: Inicia a las 
+  duration: Duracion
+  durationMin: $DURATION minutos
+  incidentCompleted: Completado
+  incidentScheduled: Agendado
