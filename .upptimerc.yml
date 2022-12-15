@@ -7,16 +7,21 @@ sites:
   - name: Santo Tome Nextcloud
     url: http://santotomeserver.no-ip.info/
   - name: Santo Tome Tomcat
-    url: http://santotomeserver.no-ip.info/
+    url: santotomeserver.no-ip.info
     port: 8080
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/1024px-Apache_Tomcat_logo.svg.png
   - name: Fenixcred Tomcat
-    url: http://fenixcred.noip.us:8080/
+    url: fenixcred.noip.us
     port: 8080
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/1024px-Apache_Tomcat_logo.svg.png
   - name: Ozono ERP
     url: https://ozonotest.ddns.net/
-
+    icon: https://play-lh.googleusercontent.com/Zv2I5VIii0ZK9sJ2FgPFZxynVqtcenDZkO9BUYMO-35sTExs21OsGXEj2kQQFkk2ww=w240-h480-rw
+  - name: Lo+Hot
+    url: lomashotcentral.no-ip.info
+    port: 8069
+    icon: https://play-lh.googleusercontent.com/Zv2I5VIii0ZK9sJ2FgPFZxynVqtcenDZkO9BUYMO-35sTExs21OsGXEj2kQQFkk2ww=w240-h480-rw
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
