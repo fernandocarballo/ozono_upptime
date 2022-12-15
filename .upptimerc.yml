@@ -40,3 +40,35 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+i18n:
+  activeIncidents: Incidentes activos
+  allSystemsOperational: Todos los sistemas estan operacionales
+  incidentReport: "Reporte del incidente #$NUMBER →"
+  activeIncidentSummary: Abiertos a $DATE con $POSTS mensajes
+  incidentTitle: Detalle del incidente $NUMBER
+  incidentDetails: Detalles del incidente
+  incidentFixed: Solucionado
+  incidentOngoing: Continua
+  incidentOpenedAt: Abierto a las
+  incidentClosedAt: Cerrado a las
+  incidentCommentSummary: Posted at $DATE by $AUTHOR
+  incidentBack: ← Volver a todos los incidentes
+  pastIncidents: Incidentes anteriores
+  pastIncidentsResolved: Resuelto en $MINUTES minutos con $POSTS mensajes
+  liveStatus: Estatus en vivo
+  overallUptime: "Total en linea: $UPTIME"
+  overallUptimeTitle: Total en linea
+  averageResponseTime: "Tiempo de respuesta promedio: $TIMEms"
+  averageResponseTimeTitle: Tiempo de respuesta
+  sevelDayResponseTime: tiempo de respuesta en 7 dias
+  responseTimeMs: Tiempo de respuesta (ms)
+  up: En linea
+  down: Caido
+  degraded: Degradado
+  ms: ms
+  loading: Cargando
+  navGitHub: GitHub
+  footer: Desarrollado por Ozono Informatica
+  rateLimitExceededTitle: Limite exedido
+  
