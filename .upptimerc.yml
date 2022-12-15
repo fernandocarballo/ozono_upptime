@@ -1,6 +1,7 @@
 # Change these first
 owner: fernandocarballo # Your GitHub organization or username, where this repository lives
 repo: ozono_upptime # The name of this repository
+user-agent: fernandocarballo
 
 sites:
   - name: Google
