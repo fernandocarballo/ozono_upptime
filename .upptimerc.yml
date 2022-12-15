@@ -4,14 +4,16 @@ repo: ozono_upptime # The name of this repository
 #user-agent: fernandocarballo
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Santo Tome Nextcloud
+    url: http://santotomeserver.no-ip.info/
+  - name: Santo Tome Tomcat
+    url: http://santotomeserver.no-ip.info/
+    port: 8080
+  - name: Fenixcred Tomcat
+    url: http://fenixcred.noip.us:8080/
+    port: 8080
+  - name: Ozono ERP
+    url: https://ozonotest.ddns.net/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
