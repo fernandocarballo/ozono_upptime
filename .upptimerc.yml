@@ -9,9 +9,11 @@ sites:
   - name: Santo Tome Tomcat
     url: http://santotomeserver.no-ip.info/
     port: 8080
+    icon: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/1024px-Apache_Tomcat_logo.svg.png
   - name: Fenixcred Tomcat
     url: http://fenixcred.noip.us:8080/
     port: 8080
+    icon: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/1024px-Apache_Tomcat_logo.svg.png
   - name: Ozono ERP
     url: https://ozonotest.ddns.net/
 
