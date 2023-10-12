@@ -46,9 +46,9 @@
     "url": "http://santotomeserver.no-ip.info:8080",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/1024px-Apache_Tomcat_logo.svg.png",
     "slug": "santo-tome-tomcat",
-    "status": "up",
+    "status": "down",
     "uptime": "98.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.49%",
     "uptimeYear": "98.92%",
@@ -58,6 +58,7 @@
     "timeMonth": 429,
     "timeYear": 578,
     "dailyMinutesDown": {
+      "2023-10-12": 0,
       "2023-10-02": 66,
       "2023-09-27": 71,
       "2023-09-21": 56,
@@ -123,7 +124,7 @@
     "timeMonth": 365,
     "timeYear": 417,
     "dailyMinutesDown": {
-      "2023-10-12": 141,
+      "2023-10-12": 188,
       "2023-10-11": 1440,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
