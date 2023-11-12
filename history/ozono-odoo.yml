@@ -1,7 +1,7 @@
 url: https://ozonotest.ddns.net/
-status: up
-code: 200
-responseTime: 4965
-lastUpdated: 2023-11-12T10:49:33.092Z
+status: down
+code: 503
+responseTime: 675
+lastUpdated: 2023-11-12T11:25:11.560Z
 startTime: 2022-12-15T20:48:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
