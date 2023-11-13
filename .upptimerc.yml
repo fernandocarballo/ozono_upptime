@@ -16,7 +16,7 @@ sites:
     __dangerous__insecure: true
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/1024px-Apache_Tomcat_logo.svg.png
   - name: Fenixcred Tomcat
-    url: http://fenixcred.noip.us:8080
+    url: http://fenixcred.noip.us:8080/updater
     __dangerous__insecure: true
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/1024px-Apache_Tomcat_logo.svg.png
   - name: Ozono Odoo
