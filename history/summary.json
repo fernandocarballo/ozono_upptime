@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "97.98%",
     "uptimeDay": "65.99%",
-    "uptimeWeek": "47.74%",
+    "uptimeWeek": "48.66%",
     "uptimeMonth": "86.74%",
     "uptimeYear": "98.45%",
     "time": 826,
@@ -47,7 +47,7 @@
     "status": "up",
     "uptime": "98.11%",
     "uptimeDay": "66.06%",
-    "uptimeWeek": "47.83%",
+    "uptimeWeek": "48.75%",
     "uptimeMonth": "85.43%",
     "uptimeYear": "97.52%",
     "time": 534,
@@ -132,11 +132,11 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/1024px-Apache_Tomcat_logo.svg.png",
     "slug": "fenixcred-tomcat",
     "status": "up",
-    "uptime": "64.57%",
+    "uptime": "64.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "84.29%",
+    "uptimeYear": "84.31%",
     "time": 490,
     "timeDay": 464,
     "timeWeek": 491,
@@ -218,8 +218,7 @@
       "2023-09-27": 1440,
       "2023-09-26": 1440,
       "2023-09-25": 1440,
-      "2023-09-24": 1440,
-      "2023-09-23": 1440
+      "2023-09-24": 1440
     }
   },
   {
