@@ -1,7 +1,7 @@
 url: http://lomashotcentral.no-ip.info:8069
-status: up
-code: 200
-responseTime: 464
-lastUpdated: 2025-06-18T23:07:54.723Z
+status: down
+code: 502
+responseTime: 477
+lastUpdated: 2025-06-19T13:56:02.845Z
 startTime: 2022-12-15T20:48:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
