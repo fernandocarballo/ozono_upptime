@@ -11,9 +11,9 @@
     "uptimeMonth": "91.43%",
     "uptimeYear": "96.77%",
     "time": 884,
-    "timeDay": 688,
-    "timeWeek": 705,
-    "timeMonth": 913,
+    "timeDay": 719,
+    "timeWeek": 703,
+    "timeMonth": 912,
     "timeYear": 903,
     "dailyMinutesDown": {
       "2025-06-17": 1015,
@@ -58,15 +58,15 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/1024px-Apache_Tomcat_logo.svg.png",
     "slug": "santo-tome-tomcat",
     "status": "up",
-    "uptime": "97.75%",
+    "uptime": "97.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "90.23%",
     "uptimeYear": "96.11%",
     "time": 527,
-    "timeDay": 295,
-    "timeWeek": 332,
-    "timeMonth": 417,
+    "timeDay": 472,
+    "timeWeek": 333,
+    "timeMonth": 416,
     "timeYear": 501,
     "dailyMinutesDown": {
       "2025-06-17": 1037,
@@ -117,8 +117,7 @@
       "2024-08-29": 72,
       "2024-07-24": 592,
       "2024-07-19": 34,
-      "2024-07-11": 590,
-      "2024-06-27": 503
+      "2024-07-11": 590
     }
   },
   {
@@ -133,8 +132,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.55%",
     "time": 653,
-    "timeDay": 292,
-    "timeWeek": 304,
+    "timeDay": 323,
+    "timeWeek": 307,
     "timeMonth": 326,
     "timeYear": 647,
     "dailyMinutesDown": {
@@ -160,15 +159,15 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/1024px-Apache_Tomcat_logo.svg.png",
     "slug": "fenixcred-tomcat",
     "status": "up",
-    "uptime": "75.12%",
+    "uptime": "75.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.56%",
     "time": 521,
-    "timeDay": 449,
-    "timeWeek": 461,
-    "timeMonth": 491,
+    "timeDay": 470,
+    "timeWeek": 464,
+    "timeMonth": 492,
     "timeYear": 521,
     "dailyMinutesDown": {
       "2025-05-27": 52,
@@ -179,8 +178,7 @@
       "2024-09-14": 20,
       "2024-08-28": 59,
       "2024-08-11": 1080,
-      "2024-07-19": 20,
-      "2024-06-27": 45
+      "2024-07-19": 20
     }
   },
   {
@@ -195,9 +193,9 @@
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.55%",
     "time": 705,
-    "timeDay": 516,
-    "timeWeek": 508,
-    "timeMonth": 533,
+    "timeDay": 507,
+    "timeWeek": 507,
+    "timeMonth": 532,
     "timeYear": 670,
     "dailyMinutesDown": {
       "2025-06-18": 128,
@@ -227,12 +225,12 @@
     "status": "up",
     "uptime": "99.73%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.76%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.73%",
     "time": 476,
-    "timeDay": 374,
-    "timeWeek": 415,
+    "timeDay": 463,
+    "timeWeek": 424,
     "timeMonth": 436,
     "timeYear": 461,
     "dailyMinutesDown": {
@@ -261,8 +259,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.29%",
     "time": 356,
-    "timeDay": 370,
-    "timeWeek": 319,
+    "timeDay": 313,
+    "timeWeek": 321,
     "timeMonth": 330,
     "timeYear": 358,
     "dailyMinutesDown": {
