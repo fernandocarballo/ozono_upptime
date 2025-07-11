@@ -11,9 +11,9 @@
     "uptimeMonth": "91.39%",
     "uptimeYear": "96.77%",
     "time": 877,
-    "timeDay": 697,
-    "timeWeek": 728,
-    "timeMonth": 915,
+    "timeDay": 692,
+    "timeWeek": 714,
+    "timeMonth": 914,
     "timeYear": 903,
     "dailyMinutesDown": {
       "2025-07-02": 17,
@@ -49,8 +49,7 @@
       "2024-08-12": 204,
       "2024-08-11": 1266,
       "2024-08-01": 23,
-      "2024-07-19": 34,
-      "2024-07-11": 37
+      "2024-07-19": 34
     }
   },
   {
@@ -65,8 +64,8 @@
     "uptimeMonth": "90.17%",
     "uptimeYear": "96.20%",
     "time": 525,
-    "timeDay": 298,
-    "timeWeek": 404,
+    "timeDay": 462,
+    "timeWeek": 410,
     "timeMonth": 407,
     "timeYear": 500,
     "dailyMinutesDown": {
@@ -118,8 +117,7 @@
       "2024-08-31": 562,
       "2024-08-29": 72,
       "2024-07-24": 592,
-      "2024-07-19": 34,
-      "2024-07-11": 590
+      "2024-07-19": 34
     }
   },
   {
@@ -133,10 +131,10 @@
     "uptimeWeek": "99.15%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.56%",
-    "time": 589,
-    "timeDay": 294,
-    "timeWeek": 321,
-    "timeMonth": 321,
+    "time": 588,
+    "timeDay": 298,
+    "timeWeek": 310,
+    "timeMonth": 320,
     "timeYear": 647,
     "dailyMinutesDown": {
       "2025-07-10": 85,
@@ -160,14 +158,14 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/1024px-Apache_Tomcat_logo.svg.png",
     "slug": "fenixcred-tomcat",
     "status": "up",
-    "uptime": "75.48%",
+    "uptime": "75.50%",
     "uptimeDay": "79.16%",
     "uptimeWeek": "97.02%",
     "uptimeMonth": "99.32%",
     "uptimeYear": "99.51%",
     "time": 522,
-    "timeDay": 447,
-    "timeWeek": 609,
+    "timeDay": 467,
+    "timeWeek": 481,
     "timeMonth": 522,
     "timeYear": 524,
     "dailyMinutesDown": {
@@ -195,9 +193,9 @@
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.57%",
     "time": 704,
-    "timeDay": 495,
-    "timeWeek": 530,
-    "timeMonth": 527,
+    "timeDay": 483,
+    "timeWeek": 518,
+    "timeMonth": 526,
     "timeYear": 670,
     "dailyMinutesDown": {
       "2025-06-18": 128,
@@ -230,8 +228,8 @@
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.70%",
     "time": 475,
-    "timeDay": 473,
-    "timeWeek": 478,
+    "timeDay": 471,
+    "timeWeek": 474,
     "timeMonth": 425,
     "timeYear": 460,
     "dailyMinutesDown": {
@@ -261,8 +259,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.31%",
     "time": 356,
-    "timeDay": 289,
-    "timeWeek": 345,
+    "timeDay": 306,
+    "timeWeek": 331,
     "timeMonth": 331,
     "timeYear": 358,
     "dailyMinutesDown": {
