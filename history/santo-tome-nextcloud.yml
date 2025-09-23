@@ -1,7 +1,7 @@
 url: http://santotomeserver.no-ip.info/
-status: up
-code: 200
-responseTime: 873
-lastUpdated: 2025-09-23T03:39:14.470Z
+status: down
+code: 502
+responseTime: 1055
+lastUpdated: 2025-09-23T04:57:10.952Z
 startTime: 2022-12-15T19:15:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
