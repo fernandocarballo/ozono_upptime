@@ -10,11 +10,11 @@
     "uptimeWeek": "99.39%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "98.69%",
-    "time": 1043,
-    "timeDay": 6169,
-    "timeWeek": 2633,
-    "timeMonth": 1823,
-    "timeYear": 1038,
+    "time": 1044,
+    "timeDay": 6358,
+    "timeWeek": 2667,
+    "timeMonth": 1825,
+    "timeYear": 1041,
     "dailyMinutesDown": {
       "2025-12-31": 61,
       "2025-11-21": 32,
@@ -49,10 +49,10 @@
     "uptimeWeek": "99.40%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "97.99%",
-    "time": 519,
-    "timeDay": 338,
-    "timeWeek": 356,
-    "timeMonth": 407,
+    "time": 518,
+    "timeDay": 406,
+    "timeWeek": 371,
+    "timeMonth": 409,
     "timeYear": 537,
     "dailyMinutesDown": {
       "2025-12-31": 61,
@@ -99,9 +99,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 604,
-    "timeDay": 286,
-    "timeWeek": 318,
-    "timeMonth": 343,
+    "timeDay": 417,
+    "timeWeek": 335,
+    "timeMonth": 345,
     "timeYear": 556,
     "dailyMinutesDown": {
       "2025-09-30": 23,
@@ -110,8 +110,7 @@
       "2025-07-10": 85,
       "2025-02-10": 70,
       "2025-02-09": 60,
-      "2025-01-15": 20,
-      "2025-01-01": 79
+      "2025-01-15": 20
     }
   },
   {
@@ -120,14 +119,14 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/1024px-Apache_Tomcat_logo.svg.png",
     "slug": "fenixcred-tomcat",
     "status": "up",
-    "uptime": "78.79%",
+    "uptime": "78.81%",
     "uptimeDay": "98.03%",
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "98.32%",
     "time": 527,
-    "timeDay": 436,
-    "timeWeek": 471,
+    "timeDay": 494,
+    "timeWeek": 485,
     "timeMonth": 504,
     "timeYear": 517,
     "dailyMinutesDown": {
@@ -166,11 +165,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.80%",
-    "time": 963,
-    "timeDay": 490,
-    "timeWeek": 532,
-    "timeMonth": 1280,
-    "timeYear": 1080,
+    "time": 964,
+    "timeDay": 672,
+    "timeWeek": 558,
+    "timeMonth": 1284,
+    "timeYear": 1081,
     "dailyMinutesDown": {
       "2025-11-26": 43,
       "2025-10-15": 44,
@@ -194,8 +193,7 @@
       "2025-04-23": 16,
       "2025-04-22": 21,
       "2025-01-18": 817,
-      "2025-01-17": 12,
-      "2025-01-01": 89
+      "2025-01-17": 12
     }
   },
   {
@@ -210,10 +208,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
     "time": 459,
-    "timeDay": 305,
-    "timeWeek": 431,
-    "timeMonth": 424,
-    "timeYear": 460,
+    "timeDay": 549,
+    "timeWeek": 443,
+    "timeMonth": 429,
+    "timeYear": 461,
     "dailyMinutesDown": {
       "2025-09-30": 23,
       "2025-09-26": 79,
@@ -222,8 +220,7 @@
       "2025-06-19": 24,
       "2025-06-04": 38,
       "2025-01-18": 817,
-      "2025-01-17": 11,
-      "2025-01-01": 66
+      "2025-01-17": 11
     }
   },
   {
@@ -238,9 +235,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.98%",
     "time": 355,
-    "timeDay": 294,
-    "timeWeek": 328,
-    "timeMonth": 342,
+    "timeDay": 402,
+    "timeWeek": 343,
+    "timeMonth": 344,
     "timeYear": 358,
     "dailyMinutesDown": {
       "2025-11-14": 601,
@@ -249,8 +246,7 @@
       "2025-09-18": 1440,
       "2025-09-17": 1440,
       "2025-09-16": 389,
-      "2025-01-15": 40,
-      "2025-01-01": 77
+      "2025-01-15": 40
     }
   }
 ]
