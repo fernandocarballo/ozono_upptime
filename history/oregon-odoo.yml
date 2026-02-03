@@ -1,7 +1,7 @@
 url: http://serveroregon.ddns.net:3080
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-02-03T17:06:48.848Z
+status: up
+code: 200
+responseTime: 460
+lastUpdated: 2026-02-03T18:03:42.374Z
 startTime: 2022-12-15T20:48:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
