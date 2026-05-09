@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.55%",
     "uptimeYear": "98.92%",
-    "time": 1148,
-    "timeDay": 2151,
-    "timeWeek": 1486,
-    "timeMonth": 1381,
-    "timeYear": 1261,
+    "time": 1150,
+    "timeDay": 1664,
+    "timeWeek": 1566,
+    "timeMonth": 1391,
+    "timeYear": 1263,
     "dailyMinutesDown": {
       "2026-04-27": 636,
       "2026-02-06": 564,
@@ -31,8 +31,7 @@
       "2025-06-17": 1015,
       "2025-06-16": 1440,
       "2025-06-15": 1299,
-      "2025-05-16": 69,
-      "2025-05-09": 157
+      "2025-05-16": 69
     }
   },
   {
@@ -47,10 +46,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.55%",
     "time": 537,
-    "timeDay": 454,
-    "timeWeek": 365,
+    "timeDay": 335,
+    "timeWeek": 370,
     "timeMonth": 365,
-    "timeYear": 508,
+    "timeYear": 507,
     "dailyMinutesDown": {
       "2026-02-06": 564,
       "2025-12-31": 61,
@@ -66,8 +65,7 @@
       "2025-06-15": 1298,
       "2025-06-11": 505,
       "2025-05-16": 131,
-      "2025-05-15": 464,
-      "2025-05-09": 212
+      "2025-05-15": 464
     }
   },
   {
@@ -81,10 +79,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 550,
-    "timeDay": 372,
-    "timeWeek": 476,
-    "timeMonth": 419,
+    "time": 548,
+    "timeDay": 329,
+    "timeWeek": 478,
+    "timeMonth": 420,
     "timeYear": 486,
     "dailyMinutesDown": {
       "2026-02-25": 75,
@@ -102,15 +100,15 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/1024px-Apache_Tomcat_logo.svg.png",
     "slug": "fenixcred-tomcat",
     "status": "up",
-    "uptime": "80.79%",
+    "uptime": "80.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.68%",
     "time": 512,
-    "timeDay": 620,
-    "timeWeek": 530,
-    "timeMonth": 499,
+    "timeDay": 599,
+    "timeWeek": 550,
+    "timeMonth": 503,
     "timeYear": 521,
     "dailyMinutesDown": {
       "2026-03-29": 1087,
@@ -155,9 +153,9 @@
     "uptimeMonth": "98.54%",
     "uptimeYear": "98.66%",
     "time": 975,
-    "timeDay": 474,
-    "timeWeek": 857,
-    "timeMonth": 1150,
+    "timeDay": 470,
+    "timeWeek": 854,
+    "timeMonth": 1149,
     "timeYear": 1073,
     "dailyMinutesDown": {
       "2026-05-04": 135,
@@ -201,9 +199,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 452,
-    "timeDay": 319,
-    "timeWeek": 399,
-    "timeMonth": 396,
+    "timeDay": 469,
+    "timeWeek": 392,
+    "timeMonth": 401,
     "timeYear": 450,
     "dailyMinutesDown": {
       "2026-02-25": 74,
@@ -227,8 +225,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.97%",
     "time": 352,
-    "timeDay": 303,
-    "timeWeek": 321,
+    "timeDay": 320,
+    "timeWeek": 322,
     "timeMonth": 328,
     "timeYear": 340,
     "dailyMinutesDown": {
