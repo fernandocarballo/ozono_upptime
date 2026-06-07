@@ -98,7 +98,7 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/1024px-Apache_Tomcat_logo.svg.png",
     "slug": "fenixcred-tomcat",
     "status": "up",
-    "uptime": "81.24%",
+    "uptime": "81.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -142,17 +142,17 @@
     "url": "https://ozonotest.ddns.net/",
     "icon": "https://play-lh.googleusercontent.com/Zv2I5VIii0ZK9sJ2FgPFZxynVqtcenDZkO9BUYMO-35sTExs21OsGXEj2kQQFkk2ww=w240-h480-rw",
     "slug": "ozono-odoo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.13%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "98.63%",
     "time": 945,
-    "timeDay": 536,
-    "timeWeek": 512,
-    "timeMonth": 509,
-    "timeYear": 1072,
+    "timeDay": 534,
+    "timeWeek": 514,
+    "timeMonth": 510,
+    "timeYear": 1071,
     "dailyMinutesDown": {
       "2025-06-18": 128,
       "2025-08-13": 20,
@@ -180,7 +180,8 @@
       "2026-04-20": 96,
       "2026-04-23": 408,
       "2026-05-04": 135,
-      "2026-05-19": 170
+      "2026-05-19": 170,
+      "2026-06-07": 0
     }
   },
   {
