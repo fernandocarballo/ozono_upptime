@@ -4,17 +4,17 @@
     "url": "http://santotomeserver.no-ip.info/",
     "icon": "https://icons.duckduckgo.com/ip3/santotomeserver.no-ip.info.ico",
     "slug": "santo-tome-nextcloud",
-    "status": "down",
-    "uptime": "98.38%",
-    "uptimeDay": "94.53%",
-    "uptimeWeek": "97.99%",
-    "uptimeMonth": "99.36%",
-    "uptimeYear": "99.52%",
-    "time": 1427,
-    "timeDay": 2001,
-    "timeWeek": 2084,
-    "timeMonth": 2147,
-    "timeYear": 1561,
+    "status": "up",
+    "uptime": "98.37%",
+    "uptimeDay": "86.27%",
+    "uptimeWeek": "98.00%",
+    "uptimeMonth": "99.09%",
+    "uptimeYear": "99.50%",
+    "time": 1430,
+    "timeDay": 2019,
+    "timeWeek": 2078,
+    "timeMonth": 2143,
+    "timeYear": 1562,
     "dailyMinutesDown": {
       "2025-08-18": 37,
       "2025-09-15": 94,
@@ -28,7 +28,7 @@
       "2026-04-27": 636,
       "2026-07-04": 586,
       "2026-07-29": 201,
-      "2026-08-05": 79
+      "2026-08-05": 198
     }
   },
   {
