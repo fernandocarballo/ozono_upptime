@@ -134,17 +134,17 @@
     "url": "https://ozonotest.ddns.net/",
     "icon": "https://play-lh.googleusercontent.com/Zv2I5VIii0ZK9sJ2FgPFZxynVqtcenDZkO9BUYMO-35sTExs21OsGXEj2kQQFkk2ww=w240-h480-rw",
     "slug": "ozono-odoo",
-    "status": "down",
+    "status": "up",
     "uptime": "99.17%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.66%",
-    "time": 915,
-    "timeDay": 532,
-    "timeWeek": 509,
-    "timeMonth": 530,
-    "timeYear": 1052,
+    "uptimeDay": "96.63%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "98.65%",
+    "time": 916,
+    "timeDay": 556,
+    "timeWeek": 520,
+    "timeMonth": 533,
+    "timeYear": 1051,
     "dailyMinutesDown": {
       "2025-08-22": 31,
       "2025-08-23": 97,
@@ -171,7 +171,7 @@
       "2026-05-04": 135,
       "2026-05-19": 170,
       "2026-06-07": 117,
-      "2026-08-16": 0
+      "2026-08-16": 49
     }
   },
   {
