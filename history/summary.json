@@ -60,16 +60,16 @@
     "url": "http://serveryersonalvear.ddns.net:8080",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/1024px-Apache_Tomcat_logo.svg.png",
     "slug": "yersoncred-tomcat",
-    "status": "down",
-    "uptime": "99.61%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "97.04%",
-    "uptimeMonth": "99.32%",
-    "uptimeYear": "99.84%",
+    "status": "up",
+    "uptime": "99.59%",
+    "uptimeDay": "77.26%",
+    "uptimeWeek": "93.94%",
+    "uptimeMonth": "98.61%",
+    "uptimeYear": "99.78%",
     "time": 527,
-    "timeDay": 317,
-    "timeWeek": 331,
-    "timeMonth": 473,
+    "timeDay": 359,
+    "timeWeek": 339,
+    "timeMonth": 471,
     "timeYear": 572,
     "dailyMinutesDown": {
       "2025-09-11": 65,
@@ -80,7 +80,7 @@
       "2026-02-25": 75,
       "2026-05-19": 175,
       "2026-08-29": 284,
-      "2026-08-31": 15
+      "2026-08-31": 327
     }
   },
   {
@@ -93,7 +93,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.53%",
-    "uptimeYear": "97.89%",
+    "uptimeYear": "97.95%",
     "time": 550,
     "timeDay": 661,
     "timeWeek": 700,
@@ -129,17 +129,17 @@
     "url": "https://ozonotest.ddns.net/",
     "icon": "https://play-lh.googleusercontent.com/Zv2I5VIii0ZK9sJ2FgPFZxynVqtcenDZkO9BUYMO-35sTExs21OsGXEj2kQQFkk2ww=w240-h480-rw",
     "slug": "ozono-odoo",
-    "status": "down",
-    "uptime": "99.16%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "95.91%",
-    "uptimeMonth": "98.95%",
-    "uptimeYear": "98.60%",
+    "status": "up",
+    "uptime": "99.14%",
+    "uptimeDay": "77.59%",
+    "uptimeWeek": "92.81%",
+    "uptimeMonth": "98.24%",
+    "uptimeYear": "98.54%",
     "time": 917,
-    "timeDay": 506,
-    "timeWeek": 517,
-    "timeMonth": 525,
-    "timeYear": 970,
+    "timeDay": 565,
+    "timeWeek": 529,
+    "timeMonth": 528,
+    "timeYear": 969,
     "dailyMinutesDown": {
       "2025-09-07": 38,
       "2025-09-09": 22,
@@ -166,7 +166,7 @@
       "2026-08-16": 49,
       "2026-08-30": 44,
       "2026-08-29": 358,
-      "2026-08-31": 10
+      "2026-08-31": 323
     }
   },
   {
@@ -174,16 +174,16 @@
     "url": "http://lomashotcentral.no-ip.info:8069",
     "icon": "https://play-lh.googleusercontent.com/Zv2I5VIii0ZK9sJ2FgPFZxynVqtcenDZkO9BUYMO-35sTExs21OsGXEj2kQQFkk2ww=w240-h480-rw",
     "slug": "lo-hot-odoo",
-    "status": "down",
-    "uptime": "99.77%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "96.01%",
-    "uptimeMonth": "99.08%",
-    "uptimeYear": "99.89%",
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "77.92%",
+    "uptimeWeek": "92.91%",
+    "uptimeMonth": "98.37%",
+    "uptimeYear": "99.83%",
     "time": 448,
-    "timeDay": 449,
-    "timeWeek": 390,
-    "timeMonth": 541,
+    "timeDay": 442,
+    "timeWeek": 394,
+    "timeMonth": 537,
     "timeYear": 444,
     "dailyMinutesDown": {
       "2025-09-26": 79,
@@ -191,7 +191,7 @@
       "2026-02-25": 74,
       "2026-08-30": 44,
       "2026-08-29": 353,
-      "2026-08-31": 5
+      "2026-08-31": 318
     }
   },
   {
@@ -199,16 +199,16 @@
     "url": "http://serveroregon.ddns.net:3080",
     "icon": "https://play-lh.googleusercontent.com/Zv2I5VIii0ZK9sJ2FgPFZxynVqtcenDZkO9BUYMO-35sTExs21OsGXEj2kQQFkk2ww=w240-h480-rw",
     "slug": "oregon-odoo",
-    "status": "down",
-    "uptime": "98.92%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "67.45%",
-    "uptimeMonth": "92.46%",
-    "uptimeYear": "98.35%",
+    "status": "up",
+    "uptime": "98.91%",
+    "uptimeDay": "78.26%",
+    "uptimeWeek": "67.46%",
+    "uptimeMonth": "91.75%",
+    "uptimeYear": "98.29%",
     "time": 341,
-    "timeDay": 323,
-    "timeWeek": 390,
-    "timeMonth": 356,
+    "timeDay": 382,
+    "timeWeek": 397,
+    "timeMonth": 359,
     "timeYear": 343,
     "dailyMinutesDown": {
       "2025-09-19": 1310,
@@ -223,7 +223,7 @@
       "2026-08-25": 1440,
       "2026-08-24": 511,
       "2026-08-29": 279,
-      "2026-08-31": 0
+      "2026-08-31": 313
     }
   }
 ]
