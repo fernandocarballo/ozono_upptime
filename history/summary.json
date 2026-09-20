@@ -90,7 +90,7 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/1024px-Apache_Tomcat_logo.svg.png",
     "slug": "fenixcred-tomcat",
     "status": "up",
-    "uptime": "82.54%",
+    "uptime": "82.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -130,11 +130,11 @@
     "icon": "https://play-lh.googleusercontent.com/Zv2I5VIii0ZK9sJ2FgPFZxynVqtcenDZkO9BUYMO-35sTExs21OsGXEj2kQQFkk2ww=w240-h480-rw",
     "slug": "ozono-odoo",
     "status": "down",
-    "uptime": "99.05%",
-    "uptimeDay": "60.73%",
-    "uptimeWeek": "89.15%",
-    "uptimeMonth": "93.82%",
-    "uptimeYear": "98.18%",
+    "uptime": "99.04%",
+    "uptimeDay": "44.14%",
+    "uptimeWeek": "86.78%",
+    "uptimeMonth": "93.27%",
+    "uptimeYear": "98.13%",
     "time": 928,
     "timeDay": 3530,
     "timeWeek": 1185,
@@ -168,7 +168,7 @@
       "2026-09-10": 309,
       "2026-09-09": 582,
       "2026-09-18": 528,
-      "2026-09-20": 565
+      "2026-09-20": 804
     }
   },
   {
@@ -176,15 +176,15 @@
     "url": "http://lomashotcentral.no-ip.info:8069",
     "icon": "https://play-lh.googleusercontent.com/Zv2I5VIii0ZK9sJ2FgPFZxynVqtcenDZkO9BUYMO-35sTExs21OsGXEj2kQQFkk2ww=w240-h480-rw",
     "slug": "lo-hot-odoo",
-    "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.59%",
-    "uptimeYear": "99.77%",
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "83.41%",
+    "uptimeWeek": "97.63%",
+    "uptimeMonth": "97.05%",
+    "uptimeYear": "99.72%",
     "time": 440,
-    "timeDay": 339,
-    "timeWeek": 338,
+    "timeDay": 348,
+    "timeWeek": 341,
     "timeMonth": 375,
     "timeYear": 441,
     "dailyMinutesDown": {
@@ -195,7 +195,7 @@
       "2026-08-29": 353,
       "2026-08-31": 318,
       "2026-09-09": 341,
-      "2026-09-20": 0
+      "2026-09-20": 239
     }
   },
   {
