@@ -13,7 +13,7 @@
     "time": 1533,
     "timeDay": 1950,
     "timeWeek": 2023,
-    "timeMonth": 2018,
+    "timeMonth": 2023,
     "timeYear": 1740,
     "dailyMinutesDown": {
       "2025-09-30": 24,
@@ -42,7 +42,7 @@
     "time": 472,
     "timeDay": 335,
     "timeWeek": 415,
-    "timeMonth": 373,
+    "timeMonth": 374,
     "timeYear": 434,
     "dailyMinutesDown": {
       "2025-11-18": 37,
@@ -59,16 +59,16 @@
     "url": "http://serveryersonalvear.ddns.net:8080",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/1024px-Apache_Tomcat_logo.svg.png",
     "slug": "yersoncred-tomcat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.81%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "97.78%",
     "uptimeYear": "99.75%",
-    "time": 550,
+    "time": 551,
     "timeDay": 347,
     "timeWeek": 332,
-    "timeMonth": 664,
+    "timeMonth": 675,
     "timeYear": 601,
     "dailyMinutesDown": {
       "2025-09-30": 23,
@@ -78,7 +78,8 @@
       "2026-05-19": 175,
       "2026-08-29": 284,
       "2026-08-31": 327,
-      "2026-09-09": 350
+      "2026-09-09": 350,
+      "2026-09-28": 10
     }
   },
   {
@@ -87,7 +88,7 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/1024px-Apache_Tomcat_logo.svg.png",
     "slug": "fenixcred-tomcat",
     "status": "up",
-    "uptime": "82.64%",
+    "uptime": "82.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -95,7 +96,7 @@
     "time": 575,
     "timeDay": 711,
     "timeWeek": 674,
-    "timeMonth": 706,
+    "timeMonth": 709,
     "timeYear": 591,
     "dailyMinutesDown": {
       "2025-10-04": 306,
@@ -124,17 +125,17 @@
     "url": "https://ozonotest.ddns.net/",
     "icon": "https://play-lh.googleusercontent.com/Zv2I5VIii0ZK9sJ2FgPFZxynVqtcenDZkO9BUYMO-35sTExs21OsGXEj2kQQFkk2ww=w240-h480-rw",
     "slug": "ozono-odoo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.95%",
-    "uptimeMonth": "90.89%",
-    "uptimeYear": "98.27%",
-    "time": 932,
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "90.88%",
+    "uptimeYear": "98.34%",
+    "time": 933,
     "timeDay": 532,
-    "timeWeek": 536,
-    "timeMonth": 768,
-    "timeYear": 788,
+    "timeWeek": 526,
+    "timeMonth": 775,
+    "timeYear": 742,
     "dailyMinutesDown": {
       "2025-09-30": 23,
       "2025-10-06": 898,
@@ -160,7 +161,8 @@
       "2026-09-09": 582,
       "2026-09-18": 528,
       "2026-09-21": 427,
-      "2026-09-20": 1420
+      "2026-09-20": 1420,
+      "2026-09-28": 5
     }
   },
   {
@@ -194,16 +196,16 @@
     "url": "http://serveroregon.ddns.net:3080",
     "icon": "https://play-lh.googleusercontent.com/Zv2I5VIii0ZK9sJ2FgPFZxynVqtcenDZkO9BUYMO-35sTExs21OsGXEj2kQQFkk2ww=w240-h480-rw",
     "slug": "oregon-odoo",
-    "status": "up",
+    "status": "down",
     "uptime": "98.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.88%",
     "uptimeYear": "99.11%",
     "time": 341,
     "timeDay": 348,
     "timeWeek": 335,
-    "timeMonth": 357,
+    "timeMonth": 358,
     "timeYear": 344,
     "dailyMinutesDown": {
       "2025-11-14": 601,
@@ -214,7 +216,8 @@
       "2026-08-24": 511,
       "2026-08-29": 279,
       "2026-08-31": 313,
-      "2026-09-09": 336
+      "2026-09-09": 336,
+      "2026-09-28": 0
     }
   }
 ]
