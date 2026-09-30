@@ -58,16 +58,16 @@
     "url": "http://serveryersonalvear.ddns.net:8080",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/1024px-Apache_Tomcat_logo.svg.png",
     "slug": "yersoncred-tomcat",
-    "status": "down",
+    "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "78.04%",
-    "uptimeWeek": "94.52%",
-    "uptimeMonth": "97.19%",
+    "uptimeDay": "78.49%",
+    "uptimeWeek": "94.42%",
+    "uptimeMonth": "97.17%",
     "uptimeYear": "99.64%",
-    "time": 552,
-    "timeDay": 367,
-    "timeWeek": 340,
-    "timeMonth": 700,
+    "time": 553,
+    "timeDay": 597,
+    "timeWeek": 409,
+    "timeMonth": 704,
     "timeYear": 602,
     "dailyMinutesDown": {
       "2026-01-15": 31,
@@ -79,7 +79,7 @@
       "2026-09-09": 350,
       "2026-09-29": 421,
       "2026-09-28": 126,
-      "2026-09-30": 6
+      "2026-09-30": 16
     }
   },
   {
@@ -125,17 +125,17 @@
     "url": "https://ozonotest.ddns.net/",
     "icon": "https://play-lh.googleusercontent.com/Zv2I5VIii0ZK9sJ2FgPFZxynVqtcenDZkO9BUYMO-35sTExs21OsGXEj2kQQFkk2ww=w240-h480-rw",
     "slug": "ozono-odoo",
-    "status": "down",
+    "status": "up",
     "uptime": "98.97%",
-    "uptimeDay": "78.06%",
-    "uptimeWeek": "94.57%",
-    "uptimeMonth": "90.56%",
+    "uptimeDay": "78.09%",
+    "uptimeWeek": "94.41%",
+    "uptimeMonth": "90.52%",
     "uptimeYear": "98.23%",
-    "time": 939,
-    "timeDay": 2124,
-    "timeWeek": 974,
-    "timeMonth": 873,
-    "timeYear": 750,
+    "time": 1038,
+    "timeDay": 20780,
+    "timeWeek": 8114,
+    "timeMonth": 2419,
+    "timeYear": 895,
     "dailyMinutesDown": {
       "2025-10-06": 898,
       "2025-10-05": 1440,
@@ -163,7 +163,7 @@
       "2026-09-20": 1420,
       "2026-09-29": 421,
       "2026-09-28": 121,
-      "2026-09-30": 5
+      "2026-09-30": 22
     }
   },
   {
@@ -196,15 +196,15 @@
     "url": "http://serveroregon.ddns.net:3080",
     "icon": "https://play-lh.googleusercontent.com/Zv2I5VIii0ZK9sJ2FgPFZxynVqtcenDZkO9BUYMO-35sTExs21OsGXEj2kQQFkk2ww=w240-h480-rw",
     "slug": "oregon-odoo",
-    "status": "down",
-    "uptime": "98.89%",
-    "uptimeDay": "78.39%",
-    "uptimeWeek": "94.66%",
-    "uptimeMonth": "97.29%",
-    "uptimeYear": "99.01%",
+    "status": "up",
+    "uptime": "98.88%",
+    "uptimeDay": "78.42%",
+    "uptimeWeek": "94.50%",
+    "uptimeMonth": "97.25%",
+    "uptimeYear": "99.00%",
     "time": 342,
-    "timeDay": 775,
-    "timeWeek": 409,
+    "timeDay": 573,
+    "timeWeek": 403,
     "timeMonth": 363,
     "timeYear": 345,
     "dailyMinutesDown": {
@@ -219,7 +219,7 @@
       "2026-09-09": 336,
       "2026-09-29": 421,
       "2026-09-28": 116,
-      "2026-09-30": 0
+      "2026-09-30": 17
     }
   }
 ]
