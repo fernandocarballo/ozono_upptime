@@ -14,7 +14,7 @@
     "timeDay": 2032,
     "timeWeek": 3843,
     "timeMonth": 2455,
-    "timeYear": 1782,
+    "timeYear": 1783,
     "dailyMinutesDown": {
       "2025-11-18": 37,
       "2025-11-21": 32,
@@ -58,17 +58,17 @@
     "url": "http://serveryersonalvear.ddns.net:8080",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/1024px-Apache_Tomcat_logo.svg.png",
     "slug": "yersoncred-tomcat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "94.42%",
-    "uptimeMonth": "97.92%",
-    "uptimeYear": "99.65%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "94.37%",
+    "uptimeMonth": "97.90%",
+    "uptimeYear": "99.64%",
     "time": 554,
     "timeDay": 540,
     "timeWeek": 447,
     "timeMonth": 376,
-    "timeYear": 604,
+    "timeYear": 605,
     "dailyMinutesDown": {
       "2026-01-15": 31,
       "2026-02-03": 57,
@@ -79,7 +79,8 @@
       "2026-09-09": 350,
       "2026-09-29": 421,
       "2026-09-28": 126,
-      "2026-09-30": 16
+      "2026-09-30": 16,
+      "2026-10-04": 5
     }
   },
   {
@@ -88,11 +89,11 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/1024px-Apache_Tomcat_logo.svg.png",
     "slug": "fenixcred-tomcat",
     "status": "up",
-    "uptime": "82.72%",
+    "uptime": "82.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.22%",
+    "uptimeYear": "98.28%",
     "time": 575,
     "timeDay": 707,
     "timeWeek": 705,
@@ -129,7 +130,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.41%",
     "uptimeMonth": "91.26%",
-    "uptimeYear": "98.24%",
+    "uptimeYear": "98.28%",
     "time": 1038,
     "timeDay": 994,
     "timeWeek": 8183,
@@ -179,7 +180,7 @@
     "timeDay": 492,
     "timeWeek": 410,
     "timeMonth": 378,
-    "timeYear": 437,
+    "timeYear": 438,
     "dailyMinutesDown": {
       "2026-02-25": 74,
       "2026-08-30": 44,
@@ -194,9 +195,9 @@
     "url": "http://serveroregon.ddns.net:3080",
     "icon": "https://play-lh.googleusercontent.com/Zv2I5VIii0ZK9sJ2FgPFZxynVqtcenDZkO9BUYMO-35sTExs21OsGXEj2kQQFkk2ww=w240-h480-rw",
     "slug": "oregon-odoo",
-    "status": "up",
+    "status": "down",
     "uptime": "98.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "94.50%",
     "uptimeMonth": "97.97%",
     "uptimeYear": "99.00%",
@@ -217,7 +218,8 @@
       "2026-09-09": 336,
       "2026-09-29": 421,
       "2026-09-28": 116,
-      "2026-09-30": 17
+      "2026-09-30": 17,
+      "2026-10-04": 0
     }
   }
 ]
