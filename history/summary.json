@@ -89,9 +89,9 @@
     "url": "http://fenixcred.noip.us:8080/updater",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/1024px-Apache_Tomcat_logo.svg.png",
     "slug": "fenixcred-tomcat",
-    "status": "up",
-    "uptime": "82.80%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "82.81%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.28%",
@@ -118,7 +118,8 @@
       "2026-06-30": 277,
       "2026-08-03": 845,
       "2026-08-02": 1440,
-      "2026-08-01": 113
+      "2026-08-01": 113,
+      "2026-10-11": 0
     }
   },
   {
