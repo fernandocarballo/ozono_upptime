@@ -91,7 +91,7 @@
     "slug": "fenixcred-tomcat",
     "status": "up",
     "uptime": "82.69%",
-    "uptimeDay": "0.02%",
+    "uptimeDay": "21.15%",
     "uptimeWeek": "71.44%",
     "uptimeMonth": "93.43%",
     "uptimeYear": "97.73%",
@@ -175,12 +175,12 @@
     "status": "up",
     "uptime": "99.72%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.26%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "98.82%",
     "uptimeYear": "99.69%",
     "time": 438,
     "timeDay": 415,
-    "timeWeek": 427,
+    "timeWeek": 415,
     "timeMonth": 386,
     "timeYear": 437,
     "dailyMinutesDown": {
@@ -198,10 +198,10 @@
     "url": "http://serveroregon.ddns.net:3080",
     "icon": "https://play-lh.googleusercontent.com/Zv2I5VIii0ZK9sJ2FgPFZxynVqtcenDZkO9BUYMO-35sTExs21OsGXEj2kQQFkk2ww=w240-h480-rw",
     "slug": "oregon-odoo",
-    "status": "up",
+    "status": "down",
     "uptime": "98.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "98.37%",
     "uptimeYear": "98.97%",
     "time": 343,
@@ -223,7 +223,8 @@
       "2026-09-28": 116,
       "2026-09-30": 17,
       "2026-10-05": 112,
-      "2026-10-04": 48
+      "2026-10-04": 48,
+      "2026-10-13": 1
     }
   }
 ]
