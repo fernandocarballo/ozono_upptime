@@ -26,10 +26,6 @@ sites:
     url: http://lomashotcentral.no-ip.info:8069
     __dangerous__insecure: true
     icon: https://play-lh.googleusercontent.com/Zv2I5VIii0ZK9sJ2FgPFZxynVqtcenDZkO9BUYMO-35sTExs21OsGXEj2kQQFkk2ww=w240-h480-rw
-  - name: Oregon Odoo
-    url: http://serveroregon.ddns.net:3080
-    __dangerous__insecure: true
-    icon: https://play-lh.googleusercontent.com/Zv2I5VIii0ZK9sJ2FgPFZxynVqtcenDZkO9BUYMO-35sTExs21OsGXEj2kQQFkk2ww=w240-h480-rw
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
