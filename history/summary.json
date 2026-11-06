@@ -12,9 +12,9 @@
     "uptimeYear": "99.53%",
     "time": 1756,
     "timeDay": 2133,
-    "timeWeek": 1955,
-    "timeMonth": 3441,
-    "timeYear": 1953,
+    "timeWeek": 1924,
+    "timeMonth": 3486,
+    "timeYear": 1949,
     "dailyMinutesDown": {
       "2025-11-18": 37,
       "2025-11-21": 32,
@@ -40,8 +40,8 @@
     "uptimeYear": "99.62%",
     "time": 472,
     "timeDay": 394,
-    "timeWeek": 364,
-    "timeMonth": 418,
+    "timeWeek": 365,
+    "timeMonth": 420,
     "timeYear": 426,
     "dailyMinutesDown": {
       "2025-11-18": 37,
@@ -66,8 +66,8 @@
     "uptimeYear": "99.61%",
     "time": 564,
     "timeDay": 371,
-    "timeWeek": 343,
-    "timeMonth": 481,
+    "timeWeek": 345,
+    "timeMonth": 486,
     "timeYear": 613,
     "dailyMinutesDown": {
       "2026-01-15": 31,
@@ -97,8 +97,8 @@
     "uptimeYear": "98.04%",
     "time": 588,
     "timeDay": 736,
-    "timeWeek": 739,
-    "timeMonth": 694,
+    "timeWeek": 745,
+    "timeMonth": 693,
     "timeYear": 597,
     "dailyMinutesDown": {
       "2025-11-25": 756,
@@ -132,9 +132,9 @@
     "uptimeYear": "98.74%",
     "time": 1039,
     "timeDay": 578,
-    "timeWeek": 619,
-    "timeMonth": 558,
-    "timeYear": 853,
+    "timeWeek": 536,
+    "timeMonth": 556,
+    "timeYear": 854,
     "dailyMinutesDown": {
       "2025-11-26": 43,
       "2026-01-11": 107,
@@ -166,15 +166,15 @@
     "url": "http://lomashotcentral.no-ip.info:8069",
     "icon": "https://play-lh.googleusercontent.com/Zv2I5VIii0ZK9sJ2FgPFZxynVqtcenDZkO9BUYMO-35sTExs21OsGXEj2kQQFkk2ww=w240-h480-rw",
     "slug": "lo-hot-odoo",
-    "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "98.17%",
-    "uptimeMonth": "98.95%",
-    "uptimeYear": "99.65%",
+    "status": "up",
+    "uptime": "99.71%",
+    "uptimeDay": "83.31%",
+    "uptimeWeek": "95.79%",
+    "uptimeMonth": "98.40%",
+    "uptimeYear": "99.61%",
     "time": 436,
-    "timeDay": 351,
-    "timeWeek": 383,
+    "timeDay": 358,
+    "timeWeek": 367,
     "timeMonth": 395,
     "timeYear": 425,
     "dailyMinutesDown": {
@@ -187,7 +187,8 @@
       "2026-10-06": 277,
       "2026-11-02": 113,
       "2026-11-01": 71,
-      "2026-11-05": 0
+      "2026-11-06": 173,
+      "2026-11-05": 68
     }
   }
 ]
